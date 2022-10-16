@@ -29,7 +29,7 @@ Skills:
 
 
 
-[<img src="https://img.icons8.com/color-glass/48/000000/github.png" alt='github' height='40'>](https://github.com/shashank-k-y)  [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/shashank-ky-0230b5149/)  [<img src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png" alt='instagram' height='40'>](https://www.instagram.com/shashank_k_y/)  
+[<img src="https://img.icons8.com/color-glass/48/000000/github.png" alt='github' height='40'>](https://github.com/shashank-k-y)  [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/shashank-ky-0230b5149/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-k-y)](https://github.com/anuraghazra/github-readme-stats)
 
