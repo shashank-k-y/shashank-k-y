@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 #### I'm a backend developer working in a fintech startup. I'm currently exploring backend devleopment along with python
 
 - 🔭 I’m currently working on following personal projects [movie_mate](https://github.com/shashank-k-y/movie_mate), [address_book](https://github.com/shashank-k-y/addressbook) etc.
-- 🌱 I’m currently learning docker
 - 📫 How to reach me: [email](shashank.sky.8@gmail.com)
 
 Skills: 
